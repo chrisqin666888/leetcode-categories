@@ -1,16 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="314d15d9-61fc-4830-ac74-b440bb64a8e7" name="Default Changelist" comment="" />
+    <list default="true" id="314d15d9-61fc-4830-ac74-b440bb64a8e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Array_DFS/P472_Concatenated_Words/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/P576_Out_of_Boundary_Paths/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/P316_Remove_Duplicate_Letters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree_DFS/P690_Employee_Importance/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xv289Lq0vTu66drJEapLQI37Bq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_DFS.P472_Concatenated_Words.Solution" />
+      <module name="leetcode-categories" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_DFS.P472_Concatenated_Words.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -26,6 +70,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1279" height="345" key="GridCell.Tab.0.bottom" timestamp="1581917092332">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.0.bottom/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092332" />
+    <state width="1279" height="345" key="GridCell.Tab.0.center" timestamp="1581917092331">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.0.center/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092331" />
+    <state width="1279" height="345" key="GridCell.Tab.0.left" timestamp="1581917092330">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.0.left/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092330" />
+    <state width="1279" height="345" key="GridCell.Tab.0.right" timestamp="1581917092331">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.0.right/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092331" />
+    <state width="1279" height="345" key="GridCell.Tab.1.bottom" timestamp="1581917092676">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.1.bottom/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092676" />
+    <state width="1279" height="345" key="GridCell.Tab.1.center" timestamp="1581917092671">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.1.center/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092671" />
+    <state width="1279" height="345" key="GridCell.Tab.1.left" timestamp="1581917092668">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.1.left/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092668" />
+    <state width="1279" height="345" key="GridCell.Tab.1.right" timestamp="1581917092673">
+      <screen x="74" y="23" width="1606" height="1027" />
+    </state>
+    <state width="1279" height="345" key="GridCell.Tab.1.right/74.23.1606.1027@74.23.1606.1027" timestamp="1581917092673" />
     <state x="378" y="175" key="SettingsEditor" timestamp="1581912106785">
       <screen x="74" y="23" width="1606" height="1027" />
     </state>
@@ -34,5 +110,24 @@
       <screen x="74" y="23" width="1606" height="1027" />
     </state>
     <state x="554" y="369" key="com.intellij.ide.util.TipDialog/74.23.1606.1027@74.23.1606.1027" timestamp="1581912089416" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array_DFS/P472_Concatenated_Words/Solution.java</url>
+          <line>8</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array_DFS/P472_Concatenated_Words/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
