@@ -1,4 +1,4 @@
-package Dynamic_Programming.P576_Out_of_Boundary_Paths.Knight_Probability_in_Chessboard;
+package Dynamic_Programming.P688_Knight_Probability_in_Chessboard;
 import java.util.*;
 
 class Solution {
