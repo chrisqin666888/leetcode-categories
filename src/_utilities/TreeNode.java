@@ -1,8 +1,7 @@
-package Tree_Recursion;
+package _utilities;
 
 public class TreeNode {
-    public TreeNode left;
-    public TreeNode right;
+    public TreeNode left, right;
     public int val;
 
     public TreeNode(int val) {

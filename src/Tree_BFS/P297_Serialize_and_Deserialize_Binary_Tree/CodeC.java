@@ -1,6 +1,7 @@
 package Tree_BFS.P297_Serialize_and_Deserialize_Binary_Tree;
+import _utilities.TreeNode;
+
 import java.util.*;
-import Tree_BFS.TreeNode;
 
 public class CodeC {
     public String serialize(TreeNode root) {

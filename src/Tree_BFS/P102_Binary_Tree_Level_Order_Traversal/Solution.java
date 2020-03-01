@@ -1,6 +1,6 @@
 package Tree_BFS.P102_Binary_Tree_Level_Order_Traversal;
 
-import Tree_BFS.TreeNode;
+import _utilities.TreeNode;
 
 import java.util.*;
 

@@ -1,8 +1,6 @@
 package Stack.P536_Construct_Binary_Tree_From_String;
 import java.util.*;
 
-import Tree_Recursion.TreeNode;
-
 public class Solution {
     public TreeNode str2tree(String s) {
         Stack<TreeNode> stack = new Stack<>();

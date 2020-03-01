@@ -1,5 +1,6 @@
 package Tree_Recursion.P156_Binary_Tree_Upside_Down;
-import Tree_Recursion.TreeNode;
+
+import _utilities.TreeNode;
 
 public class Solution {
     public TreeNode upsideDownBinaryTree(TreeNode root) {
