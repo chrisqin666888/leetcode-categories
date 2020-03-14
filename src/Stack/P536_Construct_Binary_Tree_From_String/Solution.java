@@ -1,4 +1,6 @@
 package Stack.P536_Construct_Binary_Tree_From_String;
+import _utilities.TreeNode;
+
 import java.util.*;
 
 public class Solution {
