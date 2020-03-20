@@ -1,4 +1,4 @@
-package Tree_Recursion.P307_Range_Sum_Query_Mutable;
+package Segment_Tree.P307_Range_Sum_Query_Mutable;
 
 public class Solution {
     class SegmentTreeNode {
