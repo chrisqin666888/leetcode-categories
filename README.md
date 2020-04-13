@@ -5,6 +5,7 @@ detailed java code for leetcode problems with categories
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 10 | Regular Expression Matching | Hard | [https://leetcode.com/problems/regular-expression-matching/](https://leetcode.com/problems/regular-expression-matching/)
+91 | Decode Ways | Medium | [https://leetcode.com/problems/decode-ways/](https://leetcode.com/problems/decode-ways/)
 
 
 ### Sliding Window
@@ -21,5 +22,6 @@ No | Problem Title | Difficulty | Link to Problem
 ### Backtracking
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
-78 | Subsets II | Medium | [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
+78 | Subsets | Medium | [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
+90 | Subsets II | Medium | [https://leetcode.com/problems/subsets-ii/](https://leetcode.com/problems/subsets-ii/)
 
