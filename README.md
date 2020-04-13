@@ -18,4 +18,8 @@ No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 86 | Partition List | Medium | [https://leetcode.com/problems/partition-list/](https://leetcode.com/problems/partition-list/)
 
+### Backtracking
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+78 | Subsets II | Medium | [https://leetcode.com/problems/subsets/](https://leetcode.com/problems/subsets/)
 
