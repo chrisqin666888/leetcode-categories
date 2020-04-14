@@ -28,7 +28,7 @@ No | Problem Title | Difficulty | Link to Problem
 78 | Subsets | Medium | [https://leetcode.com/problems/subsets/]()
 90 | Subsets II | Medium | [https://leetcode.com/problems/subsets-ii/]()
 
-### Tree
+### Tree Recursion / Tree DFS
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 94 | Binary Tree Inorder Traversal | Medium | [https://leetcode.com/problems/binary-tree-inorder-traversal/]()
