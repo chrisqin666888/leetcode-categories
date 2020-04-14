@@ -30,4 +30,4 @@ No | Problem Title | Difficulty | Link to Problem
 ### Tree
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
-64 | Binary Tree Inorder Traversal | Medium | [https://leetcode.com/problems/binary-tree-inorder-traversal/]()
+94 | Binary Tree Inorder Traversal | Medium | [https://leetcode.com/problems/binary-tree-inorder-traversal/]()
