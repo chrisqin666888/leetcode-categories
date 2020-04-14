@@ -6,6 +6,7 @@ No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 10 | Regular Expression Matching | Hard | [https://leetcode.com/problems/regular-expression-matching/]()
 91 | Decode Ways | Medium | [https://leetcode.com/problems/decode-ways/]()
+96 | Unique Binary Search Tree | Medium [https://leetcode.com/problems/unique-binary-search-trees/]()
 
 
 ### Sliding Window
