@@ -32,6 +32,7 @@ No | Problem Title | Difficulty | Link to Problem
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 94 | Binary Tree Inorder Traversal | Medium | [https://leetcode.com/problems/binary-tree-inorder-traversal/]()
+108 | Convert Sorted Array To Binary Search Tree | Easy | [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/]()
 
 ### Morris Traversal
 No | Problem Title | Difficulty | Link to Problem
