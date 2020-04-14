@@ -32,3 +32,8 @@ No | Problem Title | Difficulty | Link to Problem
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 94 | Binary Tree Inorder Traversal | Medium | [https://leetcode.com/problems/binary-tree-inorder-traversal/]()
+
+### Morris Traversal
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+99 | Recover Binary Search Tree | Hard | [https://leetcode.com/problems/recover-binary-search-tree/]()
