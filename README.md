@@ -4,6 +4,7 @@ detailed java code for leetcode problems with categories
 ### Dynamic Programming
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
+5 | Longest Palindrome Substring | Medium | [https://leetcode.com/problems/longest-palindromic-substring/submissions/]()
 10 | Regular Expression Matching | Hard | [https://leetcode.com/problems/regular-expression-matching/]()
 91 | Decode Ways | Medium | [https://leetcode.com/problems/decode-ways/]()
 96 | Unique Binary Search Tree | Medium | [https://leetcode.com/problems/unique-binary-search-trees/]()
