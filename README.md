@@ -1,6 +1,11 @@
 # leetcode-categories
 detailed java code for leetcode problems with categories
 
+### Array Two Pointers
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+75 | Sort Color | Medium | [https://leetcode.com/problems/sort-colors/]()
+
 ### Dynamic Programming
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
