@@ -5,6 +5,7 @@ detailed java code for leetcode problems with categories
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 75 | Sort Color | Medium | [https://leetcode.com/problems/sort-colors/]()
+283 | Move Zeros | Easy | [https://leetcode.com/problems/move-zeroes/]()
 
 ### Dynamic Programming
 No | Problem Title | Difficulty | Link to Problem
