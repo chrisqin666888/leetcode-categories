@@ -9,6 +9,7 @@ No | Problem Title | Difficulty | Link to Problem
 283 | Move Zeros | Easy | [https://leetcode.com/problems/move-zeroes/]()
 287 | Find the Duplicated Number | Medium | [https://leetcode.com/problems/find-the-duplicate-number/]()
 334 | Increasing Triplet Subsequence | Medium | [https://leetcode.com/problems/increasing-triplet-subsequence/]()
+387 | First Unique Character In a String | Easy | [https://leetcode.com/problems/first-unique-character-in-a-string/]()
 
 ### Dynamic Programming
 No | Problem Title | Difficulty | Link to Problem
