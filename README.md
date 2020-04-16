@@ -67,3 +67,7 @@ No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 300 | Longest Increasing Subsequence | Medium | [https://leetcode.com/problems/longest-increasing-subsequence/]()
 
+#### Quick Select
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+215 | Find Kth Largest Element | Medium | [https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/]()
