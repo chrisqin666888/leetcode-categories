@@ -7,6 +7,7 @@ No | Problem Title | Difficulty | Link to Problem
 75 | Sort Color | Medium | [https://leetcode.com/problems/sort-colors/]()
 283 | Move Zeros | Easy | [https://leetcode.com/problems/move-zeroes/]()
 287 | Find the Duplicated Number | Medium | [https://leetcode.com/problems/find-the-duplicate-number/]()
+334 | Increasing Triplet Subsequence | Medium | [https://leetcode.com/problems/increasing-triplet-subsequence/]()
 
 ### Dynamic Programming
 No | Problem Title | Difficulty | Link to Problem
