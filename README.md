@@ -18,6 +18,7 @@ No | Problem Title | Difficulty | Link to Problem
 96 | Unique Binary Search Tree | Medium | [https://leetcode.com/problems/unique-binary-search-trees/]()
 97 | Interleaving Strings | Hard | [https://leetcode.com/problems/interleaving-string/]()
 115 | Distinct Subsequences | Hard | [https://leetcode.com/problems/distinct-subsequences/]()
+300 | Longest Increasing Subsequence | Medium [https://leetcode.com/problems/longest-increasing-subsequence/]()
 
 ### Sliding Window
 No | Problem Title | Difficulty | Link to Problem
@@ -53,7 +54,15 @@ No | Problem Title | Difficulty | Link to Problem
 102 | Binary Tree Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-level-order-traversal/]()
 103 | Binary Tree Zigzag Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/]()
 
-### Morris Traversal
+### Special Topics
+
+#### Morris Traversal
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 99 | Recover Binary Search Tree | Hard | [https://leetcode.com/problems/recover-binary-search-tree/]()
+
+#### Patient Sorting 
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+300 | Longest Increasing Subsequence | Medium | [https://leetcode.com/problems/longest-increasing-subsequence/]()
+
