@@ -5,6 +5,7 @@ detailed java code for leetcode problems with categories
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 75 | Sort Color | Medium | [https://leetcode.com/problems/sort-colors/]()
+88 | Merge Sorted Array | Easy | [https://leetcode.com/problems/merge-sorted-array/]()
 283 | Move Zeros | Easy | [https://leetcode.com/problems/move-zeroes/]()
 287 | Find the Duplicated Number | Medium | [https://leetcode.com/problems/find-the-duplicate-number/]()
 334 | Increasing Triplet Subsequence | Medium | [https://leetcode.com/problems/increasing-triplet-subsequence/]()
