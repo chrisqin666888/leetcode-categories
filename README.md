@@ -5,8 +5,11 @@ detailed java code for leetcode problems with categories
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 75 | Sort Color | Medium | [https://leetcode.com/problems/sort-colors/]()
+88 | Merge Sorted Array | Easy | [https://leetcode.com/problems/merge-sorted-array/]()
 283 | Move Zeros | Easy | [https://leetcode.com/problems/move-zeroes/]()
 287 | Find the Duplicated Number | Medium | [https://leetcode.com/problems/find-the-duplicate-number/]()
+334 | Increasing Triplet Subsequence | Medium | [https://leetcode.com/problems/increasing-triplet-subsequence/]()
+387 | First Unique Character In a String | Easy | [https://leetcode.com/problems/first-unique-character-in-a-string/]()
 
 ### Dynamic Programming
 No | Problem Title | Difficulty | Link to Problem
@@ -17,6 +20,7 @@ No | Problem Title | Difficulty | Link to Problem
 96 | Unique Binary Search Tree | Medium | [https://leetcode.com/problems/unique-binary-search-trees/]()
 97 | Interleaving Strings | Hard | [https://leetcode.com/problems/interleaving-string/]()
 115 | Distinct Subsequences | Hard | [https://leetcode.com/problems/distinct-subsequences/]()
+300 | Longest Increasing Subsequence | Medium [https://leetcode.com/problems/longest-increasing-subsequence/]()
 
 ### Sliding Window
 No | Problem Title | Difficulty | Link to Problem
@@ -24,6 +28,11 @@ No | Problem Title | Difficulty | Link to Problem
 3 | Longest Substring Without Repeating Characters | Medium | [https://leetcode.com/problems/longest-substring-without-repeating-characters/]()
 487 | Maximum Consecutive Ones II | Medium | [https://leetcode.com/problems/max-consecutive-ones-ii/]()
 
+### Binary Search
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+34 | Find First and Last Position of Element in Sorted Array | Medium |
+35 | Search Insert Position | Easy | [https://leetcode.com/problems/search-insert-position/]()
 
 ### Linked List
 No | Problem Title | Difficulty | Link to Problem
@@ -52,7 +61,24 @@ No | Problem Title | Difficulty | Link to Problem
 102 | Binary Tree Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-level-order-traversal/]()
 103 | Binary Tree Zigzag Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/]()
 
-### Morris Traversal
+### HashMap
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+383 | Ransom Note | Easy | [https://leetcode.com/problems/ransom-note/]()
+
+### Special Topics
+
+#### Morris Traversal
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
 99 | Recover Binary Search Tree | Hard | [https://leetcode.com/problems/recover-binary-search-tree/]()
+
+#### Patient Sorting 
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+300 | Longest Increasing Subsequence | Medium | [https://leetcode.com/problems/longest-increasing-subsequence/]()
+
+#### Quick Select
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+215 | Find Kth Largest Element | Medium | [https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/]()
