@@ -28,6 +28,10 @@ No | Problem Title | Difficulty | Link to Problem
 3 | Longest Substring Without Repeating Characters | Medium | [https://leetcode.com/problems/longest-substring-without-repeating-characters/]()
 487 | Maximum Consecutive Ones II | Medium | [https://leetcode.com/problems/max-consecutive-ones-ii/]()
 
+### Binary Search
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+35 | Search Insert Position | Easy | [https://leetcode.com/problems/search-insert-position/]()
 
 ### Linked List
 No | Problem Title | Difficulty | Link to Problem
