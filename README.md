@@ -56,6 +56,11 @@ No | Problem Title | Difficulty | Link to Problem
 102 | Binary Tree Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-level-order-traversal/]()
 103 | Binary Tree Zigzag Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/]()
 
+### Tree BFS
+No | Problem Title | Difficulty | Link to Problem
+------------ | ------------ | ------------- | -------------
+383 | Ransom Note | Easy | [https://leetcode.com/problems/ransom-note/]()
+
 ### Special Topics
 
 #### Morris Traversal
