@@ -31,6 +31,7 @@ No | Problem Title | Difficulty | Link to Problem
 ### Binary Search
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
+34 | Find First and Last Position of Element in Sorted Array | Medium |
 35 | Search Insert Position | Easy | [https://leetcode.com/problems/search-insert-position/]()
 
 ### Linked List
