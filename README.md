@@ -8,11 +8,7 @@ detailed java code for leetcode problems with categories
 
 #### [Sliding Window](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/slidingwindow.md)
 
-### Binary Search
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
-34 | Find First and Last Position of Element in Sorted Array | Medium |
-35 | Search Insert Position | Easy | [https://leetcode.com/problems/search-insert-position/]()
+#### [Binary Search](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/binarysearch.md)
 
 ### Linked List
 No | Problem Title | Difficulty | Link to Problem
