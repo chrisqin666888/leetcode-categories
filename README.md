@@ -17,8 +17,8 @@ No | Problem Title | Difficulty
 [86](https://leetcode.com/problems/partition-list/) | Partition List | Medium
 
 ### Backtracking
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
+No | Problem Title | Difficulty
+------------ | ------------ | -------------
 [78](https://leetcode.com/problems/subsets/) | Subsets | Medium
 [90](https://leetcode.com/problems/subsets-ii/) | Subsets II | Medium
 [113](https://leetcode.com/problems/path-sum-ii/) | Path Sum II | Medium
@@ -27,35 +27,35 @@ No | Problem Title | Difficulty | Link to Problem
 No | Problem Title | Difficulty
 ------------ | ------------ | -------------
 [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Medium
-[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree | Easy
 [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Convert Sorted Array To Binary Search Tree | Easy
-111 | Minimum Depth of Binary Tree | Easy | [https://leetcode.com/problems/minimum-depth-of-binary-tree/]()
-112 | Path Sum | Easy | [https://leetcode.com/problems/path-sum/]()
+[111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Minimum Depth of Binary Tree | Easy
+[112](https://leetcode.com/problems/path-sum/) | Path Sum | Easy
 
 ### Tree BFS
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
-102 | Binary Tree Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-level-order-traversal/]()
-103 | Binary Tree Zigzag Level Order Traversal | Medium | [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/]()
+No | Problem Title | Difficulty
+------------ | ------------ | -------------
+[102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree Level Order Traversal | Medium
+[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Binary Tree Zigzag Level Order Traversal | Medium
 
 ### HashMap
-No | Problem Title | Difficulty | Link to Problem
+No | Problem Title | Difficulty
 ------------ | ------------ | ------------- | -------------
-383 | Ransom Note | Easy | [https://leetcode.com/problems/ransom-note/]()
+[383](https://leetcode.com/problems/ransom-note/) | Ransom Note | Easy
 
 ### Special Topics
 
 #### Morris Traversal
 No | Problem Title | Difficulty | Link to Problem
 ------------ | ------------ | ------------- | -------------
-99 | Recover Binary Search Tree | Hard | [https://leetcode.com/problems/recover-binary-search-tree/]()
+[99](https://leetcode.com/problems/recover-binary-search-tree/) | Recover Binary Search Tree | Hard
 
 #### Patient Sorting 
-No | Problem Title | Difficulty | Link to Problem
+No | Problem Title | Difficulty
 ------------ | ------------ | ------------- | -------------
-300 | Longest Increasing Subsequence | Medium | [https://leetcode.com/problems/longest-increasing-subsequence/]()
+[300](https://leetcode.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | Medium
 
 #### Quick Select
-No | Problem Title | Difficulty | Link to Problem
+No | Problem Title | Difficulty
 ------------ | ------------ | ------------- | -------------
-215 | Find Kth Largest Element | Medium | [https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/]()
+[215](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/) | Find Kth Largest Element | Medium
