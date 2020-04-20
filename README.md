@@ -1,12 +1,12 @@
 # leetcode-categories
 detailed java code for leetcode problems with categories
 
-### [Array Two Pointers](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/twopointers.md)
+#### [Array Two Pointers](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/twopointers.md)
 
-### [Dynamic Programming](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/dp.md)
+#### [Dynamic Programming](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/dp.md)
 
 
-### [Sliding Window](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/slidingwindow.md)
+#### [Sliding Window](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/slidingwindow.md)
 
 ### Binary Search
 No | Problem Title | Difficulty | Link to Problem
