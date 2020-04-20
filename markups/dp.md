@@ -1,7 +1,7 @@
 ### Dynamic Programming
 No | Problem Title | Difficulty | 
 ------------ | ------------ | -------------
-[https://leetcode.com/problems/longest-palindromic-substring/submissions/](5) | Longest Palindrome Substring | Medium  
+[5](https://leetcode.com/problems/longest-palindromic-substring/submissions/) | Longest Palindrome Substring | Medium  
 [https://leetcode.com/problems/regular-expression-matching/](10) | Regular Expression Matching | Hard  
 [https://leetcode.com/problems/decode-ways/](91) | Decode Ways | Medium 
 [https://leetcode.com/problems/unique-binary-search-trees/](96) | Unique Binary Search Tree | Medium  
