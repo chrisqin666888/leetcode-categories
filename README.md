@@ -6,11 +6,7 @@ detailed java code for leetcode problems with categories
 ### [Dynamic Programming](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/dp.md)
 
 
-### Sliding Window
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
-3 | Longest Substring Without Repeating Characters | Medium | [https://leetcode.com/problems/longest-substring-without-repeating-characters/]()
-487 | Maximum Consecutive Ones II | Medium | [https://leetcode.com/problems/max-consecutive-ones-ii/]()
+### [Sliding Window](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/slidingwindow.md)
 
 ### Binary Search
 No | Problem Title | Difficulty | Link to Problem
