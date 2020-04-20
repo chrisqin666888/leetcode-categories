@@ -6,8 +6,9 @@ detailed java code for leetcode problems with categories
 
 #### [Dynamic Programming](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/dp.md)
 
-
 #### [Sliding Window](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/slidingwindow.md)
+
+#### [Union Find / Disjoint Sets](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/unionFind.md)
 
 #### [Binary Search](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/binarysearch.md)
 
