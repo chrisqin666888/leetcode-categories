@@ -1,7 +1,7 @@
 ### Dynamic Programming
 No | Problem Title | Difficulty | 
 ------------ | ------------ | -------------
-[5](https://leetcode.com/problems/longest-palindromic-substring/submissions/) | Longest Palindrome Substring | <span style="color:blue">some *This is Blue italic.* text</span> 
+[5](https://leetcode.com/problems/longest-palindromic-substring/submissions/) | Longest Palindrome Substring | $\color{#f0ad4e}{Medium}$ 
 [10](https://leetcode.com/problems/regular-expression-matching/) | Regular Expression Matching | Hard 
 [44](https://leetcode.com/problems/wildcard-matching/) | Wildcard Matching | Hard
 [91](https://leetcode.com/problems/decode-ways/) | Decode Ways | Medium 
