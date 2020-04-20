@@ -1,15 +1,7 @@
 # leetcode-categories
 detailed java code for leetcode problems with categories
 
-### Array Two Pointers
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
-75 | Sort Color | Medium | [https://leetcode.com/problems/sort-colors/]()
-88 | Merge Sorted Array | Easy | [https://leetcode.com/problems/merge-sorted-array/]()
-283 | Move Zeros | Easy | [https://leetcode.com/problems/move-zeroes/]()
-287 | Find the Duplicated Number | Medium | [https://leetcode.com/problems/find-the-duplicate-number/]()
-334 | Increasing Triplet Subsequence | Medium | [https://leetcode.com/problems/increasing-triplet-subsequence/]()
-387 | First Unique Character In a String | Easy | [https://leetcode.com/problems/first-unique-character-in-a-string/]()
+### [Array Two Pointers](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/twopointers.md)
 
 ### [Dynamic Programming](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/dp.md)
 
