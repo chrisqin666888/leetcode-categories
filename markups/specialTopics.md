@@ -1,5 +1,5 @@
 #### Morris Traversal
-No | Problem Title | Difficulty | Link to Problem
+No | Problem Title | Difficulty
 ------------ | ------------ | -------------
 [99](https://leetcode.com/problems/recover-binary-search-tree/) | Recover Binary Search Tree | Hard
 
