@@ -1,7 +1,6 @@
 # leetcode-categories
 detailed java code for leetcode problems with categories
 
-### BY ALGORITHMS
 
 #### [Array Two Pointers](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/twopointers.md)
 
@@ -13,9 +12,9 @@ detailed java code for leetcode problems with categories
 #### [Binary Search](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/binarysearch.md)
 
 ### Linked List
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
-86 | Partition List | Medium | [https://leetcode.com/problems/partition-list/]()
+No | Problem Title | Difficulty 
+------------ | ------------ | -------------  
+[86](https://leetcode.com/problems/partition-list/) | Partition List | Medium
 
 ### Backtracking
 No | Problem Title | Difficulty | Link to Problem
@@ -25,11 +24,11 @@ No | Problem Title | Difficulty | Link to Problem
 113 | Path Sum II | Medium | [https://leetcode.com/problems/path-sum-ii/]()
 
 ### Tree Recursion / Tree DFS
-No | Problem Title | Difficulty | Link to Problem
------------- | ------------ | ------------- | -------------
-94 | Binary Tree Inorder Traversal | Medium | [https://leetcode.com/problems/binary-tree-inorder-traversal/]()
-104 | Maximum Depth of Binary Tree | Easy | [https://leetcode.com/problems/maximum-depth-of-binary-tree/]()
-108 | Convert Sorted Array To Binary Search Tree | Easy | [https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/]()
+No | Problem Title | Difficulty
+------------ | ------------ | -------------
+[94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree Inorder Traversal | Medium
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Maximum Depth of Binary Tree
+[108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Convert Sorted Array To Binary Search Tree | Easy
 111 | Minimum Depth of Binary Tree | Easy | [https://leetcode.com/problems/minimum-depth-of-binary-tree/]()
 112 | Path Sum | Easy | [https://leetcode.com/problems/path-sum/]()
 
