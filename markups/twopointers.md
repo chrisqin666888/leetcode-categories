@@ -1,5 +1,6 @@
 No | Problem Title | Difficulty | 
 ------------ | ------------ | ------------- 
+[42](https://leetcode.com/problems/trapping-rain-water/) | Trapping Rain Water | Hard
 [75](https://leetcode.com/problems/sort-colors/) | Sort Color | Medium  
 [88](https://leetcode.com/problems/merge-sorted-array/) | Merge Sorted Array | Easy | 
 [283](https://leetcode.com/problems/move-zeroes/) | Move Zeros | Easy | 
