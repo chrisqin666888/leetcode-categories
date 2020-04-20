@@ -1,6 +1,8 @@
 # leetcode-categories
 detailed java code for leetcode problems with categories
 
+### BY ALGORITHMS
+
 #### [Array Two Pointers](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/twopointers.md)
 
 #### [Dynamic Programming](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/dp.md)
