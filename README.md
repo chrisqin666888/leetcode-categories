@@ -1,6 +1,7 @@
 # leetcode-categories
 detailed java code for leetcode problems with categories
 
+#### [Array General and Brain Teaser](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/array_general.md)
 
 #### [Array Two Pointers](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/twopointers.md)
 
