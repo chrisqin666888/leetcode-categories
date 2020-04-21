@@ -8,6 +8,8 @@ detailed java code for leetcode problems with categories
 
 #### [Sliding Window](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/slidingwindow.md)
 
+### [Graph Theory](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/graph_theory.md)
+
 #### [Union Find / Disjoint Sets](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/unionFind.md)
 
 #### [Binary Search](https://github.com/sharkchili6868/leetcode-categories/blob/master/markups/binarysearch.md)
