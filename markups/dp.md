@@ -10,6 +10,7 @@ No | Problem Title | Difficulty |
 [96](https://leetcode.com/problems/unique-binary-search-trees/) | Unique Binary Search Tree | Medium  
 [97](https://leetcode.com/problems/interleaving-string/) | Interleaving Strings | Hard  
 [115](https://leetcode.com/problems/distinct-subsequences/) | Distinct Subsequences | Hard
+[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Best Time To Buy and Sell Stock | Easy
 [139](https://leetcode.com/problems/word-break/) | Word Break | Medium
 [198](https://leetcode.com/problems/house-robber/) | House Robber | Easy
 [213](https://leetcode.com/problems/house-robber-ii/) | House Robber II | Medium
